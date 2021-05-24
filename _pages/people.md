@@ -8,26 +8,29 @@ permalink: /people/
 - [publons page](https://publons.com/researcher/2895885/shichun-huang/)  
 - [Google Scholar page](https://scholar.google.com/citations?user=DpHUpCwAAAAJ&hl=en&oi=ao)  
 
-**Associate Professor**, Department of Geoscience, University of Nevada, Las Vegas
+**Associate Professor**, Department of Geoscience, University of Nevada, Las Vegas. 
 **Associate Editor**, Geochimica et Cosmochimica Acta  
 
 **Education**  
-PhD, Geochemistry, Massachusetts Institute of Technology, 2005
+PhD, Geochemistry, Massachusetts Institute of Technology, 2005  
 BS, Geochemistry, University of Science and Technology of China, 1998
 
 **Research**  
-High Temperature Geochemistry; Petrology; Non-Traditional Stable Isotope Geochemistry; Cosmochemistry
+- High Temperature Geochemistry;  
+- Petrology;  
+- Non-Traditional Stable Isotope Geochemistry;  
+- Cosmochemistry
 
 **Current Grants**  
-NSF: 1942042 CAREER: Petrogenesis of Hawaiian lavas; Constraints from metal stable isotopes, single PI, 2020-2025
-NSF: 1919061 MRI: Acquisition of an MC-ICP-MS for Earth, Environmental and Planetary Research at the University of Nevada Las Vegas, PI with Ganqing Jiang and Matthew Lachniet, 2019-2022
-NSF: 1910955 Modeling dust condensation in protoplanetary disks, Co-PI with Jason Steffen and Zhaohuan Zhu, 2019-2022
+- NSF: 1942042 CAREER: Petrogenesis of Hawaiian lavas; Constraints from metal stable isotopes, single PI, 2020-2025  
+- NSF: 1919061 MRI: Acquisition of an MC-ICP-MS for Earth, Environmental and Planetary Research at the University of Nevada Las Vegas, PI with Ganqing Jiang and Matthew Lachniet, 2019-2022  
+- NSF: 1910955 Modeling dust condensation in protoplanetary disks, Co-PI with Jason Steffen and Zhaohuan Zhu, 2019-2022
 
 **Courses Taught**  
-GEOL 100: Natural Disasters (2016S; 2017S; 2018S; 2019F; 2020S)
-GEOL 220: Mineralogy (2015S; 2015F; 2017F; 2018S; 2018F; 2020S; 2020F)
-GEOL 491: Seminar (2015F)
-GEOL 710: Advanced Igneous Petrology (2016F; 2019S)
+- GEOL 100: Natural Disasters (2016S; 2017S; 2018S; 2019F; 2020S). 
+- GEOL 220: Mineralogy (2015S; 2015F; 2017F; 2018S; 2018F; 2020S; 2020F)  
+- GEOL 491: Seminar (2015F)  
+- GEOL 710: Advanced Igneous Petrology (2016F; 2019S)
 
 **PhD student opportunity in the broad field of high-temperature geochemistry, igneous petrology, and cosmochemistry**  
 
@@ -57,7 +60,7 @@ The ICP-MS lab at Geoscience Department, University of Nevada Las Vegas is growi
 
 52. Li, Y., Wang, W., Wu, Z. and Huang, S. (2019). First-principles investigation of equilibrium K isotope fractionation among K-bearing minerals. Geochim. Cosmochim. Acta 264, 30-42, doi:10.1016/j.gca.2019.07.038 (PDF)
 
-51.Wang, Y., He, Y., Wu, H., Zhu, C., Huang, S. and Huang, J. (2019). Calcium isotope fractionation during crustal melting and magma differentiation: Granitoid and mineral-pair perspectives. Geochim. Cosmochim. Acta 259, 37-52, doi:10.1016/j.gca.2019.05.030 (PDF)
+51. Wang, Y., He, Y., Wu, H., Zhu, C., Huang, S. and Huang, J. (2019). Calcium isotope fractionation during crustal melting and magma differentiation: Granitoid and mineral-pair perspectives. Geochim. Cosmochim. Acta 259, 37-52, doi:10.1016/j.gca.2019.05.030 (PDF)
 
 50. DeFelice*, C., Mallick, S., Saal, A. E. and Huang, S. (2019). An isotopically depleted lower mantle component is intrinsic to the Hawaiian mantle plume. Nature Geosci. 12, 487-492, doi:10.1038/s41561-019-0348-0 (PDF)
 

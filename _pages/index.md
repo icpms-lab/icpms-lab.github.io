@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "In the News"
-description: 
-date: 2021-05-22
-tags: [In the news, ]
+layout: page
+title: Sapphire from Nu Instruments
+permalink: /
+feature_image: images/sapphire.png
 ---
 
+In the News:
 - [Geoscientist Shichun Huang Receives NSF CAREER Award](https://www.unlv.edu/news-story/geoscientist-shichun-huang-receives-nsf-career-award)  
 - [New High-Precision Machine to Bolster UNLV Research in Sciences](https://www.unlv.edu/news/release/new-high-precision-machine-bolster-unlv-research-sciences)  
 - [A new grant will help Nevada researchers at UNLV better understand Earth — and Mars](https://thenevadaindependent.com/article/a-new-grant-will-help-nevada-researchers-at-unlv-better-understand-earth-and-mars)  
@@ -19,5 +19,3 @@ tags: [In the news, ]
 - [Did a Comet Really Kill the Mammoths 12,900 Years Ago?](https://www.nationalgeographic.com/animals/article/130910-comet-impact-mammoths-climate-younger-dryas-quebec-science)  
 - [New evidence that cosmic impact caused Younger Dryas extinctions](https://phys.org/news/2013-08-evidence-cosmic-impact-younger-dryas.html)  
 - [Pacific volcanoes share split personality](https://www.sciencenews.org/article/pacific-volcanoes-share-split-personality)
-
-
