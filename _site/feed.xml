@@ -1,41 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>The ICP-MS Lab</title>
-        <description></description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 May 2021 08:53:27 -0700</pubDate>
-        <lastBuildDate>Mon, 24 May 2021 08:53:27 -0700</lastBuildDate>
-        <generator>Jekyll v4.0.1</generator>
-        
-            <item>
-                <title>In the News</title>
-                <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.unlv.edu/news-story/geoscientist-shichun-huang-receives-nsf-career-award&quot;&gt;Geoscientist Shichun Huang Receives NSF CAREER Award&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.unlv.edu/news/release/new-high-precision-machine-bolster-unlv-research-sciences&quot;&gt;New High-Precision Machine to Bolster UNLV Research in Sciences&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://thenevadaindependent.com/article/a-new-grant-will-help-nevada-researchers-at-unlv-better-understand-earth-and-mars&quot;&gt;A new grant will help Nevada researchers at UNLV better understand Earth — and Mars&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sciencemag.org/news/2018/03/pockets-water-may-lay-deep-below-earth-s-surface&quot;&gt;Pockets of water may lie deep below Earth’s surface&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.latimes.com/science/sciencenow/la-sci-sn-water-in-diamonds-20180308-story.html&quot;&gt;What scientists found trapped in a diamond: a type of ice not known on Earth&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dailycal.org/2018/03/18/mantle/&quot;&gt;Study of diamonds reveals that water exists in Earth’s mantle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.unlv.edu/news/release/study-unique-diamond-impurities-indicate-water-deep-earths-mantle&quot;&gt;Unique Diamond Impurities Indicate Water Deep in Earth’s Mantle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.extremetech.com/extreme/265377-scientists-find-ultra-rare-ice-vii-earth-first-time-inside-diamonds&quot;&gt;Scientists Find Ultra-Rare Ice-VII on Earth for the First Time Inside Diamonds&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/news/science-environment-23536567&quot;&gt;Ice core data supports ancient space impact idea&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.dailymail.co.uk/sciencetech/article-2383733/A-comet-DID-wipe-North-American-prehistoric-humans-Ice-core-data-suggests-cosmic-impact-killed-Clovis-people.html&quot;&gt;A comet DID wipe out first North American prehistoric humans: Ice core data suggests a cosmic impact killed off Clovis people&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nationalgeographic.com/animals/article/130910-comet-impact-mammoths-climate-younger-dryas-quebec-science&quot;&gt;Did a Comet Really Kill the Mammoths 12,900 Years Ago?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://phys.org/news/2013-08-evidence-cosmic-impact-younger-dryas.html&quot;&gt;New evidence that cosmic impact caused Younger Dryas extinctions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sciencenews.org/article/pacific-volcanoes-share-split-personality&quot;&gt;Pacific volcanoes share split personality&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+  <channel>
+    <title>The ICP-MS Lab</title>
+    <description>Geochemistry and Cosmochemistry Lab</description>
+    <link>https://icpms-lab.github.io/</link>
+    <atom:link href="https://icpms-lab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Aug 2021 09:41:38 -0700</pubDate>
+    <lastBuildDate>Tue, 10 Aug 2021 09:41:38 -0700</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Calcium isotope cosmochemistry</title>
+        <description>&lt;p&gt;The past decade has seen significant advancements in analytical capabilities and with it a marked increase in the use of Ca isotopes to advance our understanding of the Solar System’s and Earth’s evolution. Here, mass-dependent and non-mass-dependent Ca isotopic variations in bulk meteorites and chondrite components are discussed. This contribution also examines how Ca isotopes record nebular processes, including evaporation/condensation and mixing of chemically and isotopically distinct reservoirs in the protoplanetary disk. The applicability of non-mass-dependent Ca isotopic variations to tracing the nature and timing of stellar mass contributions to the parental molecular cloud is discussed. This includes the constraints Ca isotopic data provide on the nature of and the relationships between planetary building blocks. This contribution also explores the effects of parent body-based and terrestrial secondary processes, and variable sampling of isotopically heterogeneous Ca-rich components, on bulk meteorite compositions. Using the data reviewed here, this contribution attempts to reconcile the chemical and isotopic Ca data from bulk meteorites and meteorite components to address a major goal in planetary science, the development of a comprehensive model of the chemical and isotopic evolution of the Solar nebula into our planetary system.&lt;/p&gt;
 </description>
-                <pubDate>Sat, 22 May 2021 00:00:00 -0700</pubDate>
-                <link>http://localhost:4000/in-the-news/</link>
-                <guid isPermaLink="true">http://localhost:4000/in-the-news/</guid>
-                
-                <category>In the news</category>
-                
-                
-            </item>
+        <pubDate>Tue, 15 Jun 2021 00:00:00 -0700</pubDate>
+        <link>https://icpms-lab.github.io/2021/06/15/calcium-isotoope-cosmochemistry/</link>
+        <guid isPermaLink="true">https://icpms-lab.github.io/2021/06/15/calcium-isotoope-cosmochemistry/</guid>
         
-    </channel>
+        <category>papers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Coupled deep-mantle carbon-water cycle: Evidence from lower-mantle diamonds</title>
+        <description>&lt;p&gt;Diamonds form in a variety of environments between subducted crust, lithospheric and deep mantle. Recently, deep source diamonds with inclusions of the high-pressure H2O-phase ice-VII were discovered. By correlating the pressures of ice-VII inclusions with those of other high-pressure inclusions, we assess quantitatively the pressures and temperatures of their entrapment. We show that the ice-VII-bearing diamonds formed at depths down to 800 ± 60 km but at temperatures 200–500 K below average mantle temperature that match the pressure-temperature conditions of decomposing dense hydrous mantle silicates. Our work presents strong evidence for coupled recycling of water and carbon in the deep mantle based on natural samples.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 May 2021 00:00:00 -0700</pubDate>
+        <link>https://icpms-lab.github.io/2021/05/28/coupled-deep-mantle-carbon-water-cycle-evidence-from-lower-mantle-diamonds/</link>
+        <guid isPermaLink="true">https://icpms-lab.github.io/2021/05/28/coupled-deep-mantle-carbon-water-cycle-evidence-from-lower-mantle-diamonds/</guid>
+        
+        <category>papers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nickel isotopic evidence for late-stage accretion of Mercury-like differentiated planetary embryos</title>
+        <description>&lt;p&gt;Earth’s habitability is closely tied to its late-stage accretion, during which impactors delivered the majority of life-essential volatiles. However, the nature of these final building blocks remains poorly constrained. Nickel (Ni) can be a useful tracer in characterizing this accretion as most Ni in the bulk silicate Earth (BSE) comes from the late-stage impactors. Here, we apply Ni stable isotope analysis to a large number of meteorites and terrestrial rocks, and find that the BSE has a lighter Ni isotopic composition compared to chondrites. Using first-principles calculations based on density functional theory, we show that core-mantle differentiation cannot produce the observed light Ni isotopic composition of the BSE. Rather, the sub-chondritic Ni isotopic signature was established during Earth’s late-stage accretion, probably through the Moon-forming giant impact. We propose that a highly reduced sulfide-rich, Mercury-like body, whose mantle is characterized by light Ni isotopic composition, collided with and merged into the proto-Earth during the Moon-forming giant impact, producing the sub-chondritic Ni isotopic signature of the BSE, while delivering sulfur and probably other volatiles to the Earth.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2021 00:00:00 -0800</pubDate>
+        <link>https://icpms-lab.github.io/2021/01/12/nickel-isotopic-evidence-for-late-stage-accretion-of-mercury-like-differentiated-planetary-embryos/</link>
+        <guid isPermaLink="true">https://icpms-lab.github.io/2021/01/12/nickel-isotopic-evidence-for-late-stage-accretion-of-mercury-like-differentiated-planetary-embryos/</guid>
+        
+        <category>papers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dust condensation in evolving discs and the composition of planetary building blocks</title>
+        <description>&lt;p&gt;Partial condensation of dust from the Solar nebula is likely responsible for the diverse chemical compositions of chondrites and rocky planets/planetesimals in the inner Solar system. We present a forward physical–chemical model of a protoplanetary disc to predict the chemical compositions of planetary building blocks that may form from such a disc. Our model includes the physical evolution of the disc and the condensation, partial advection, and decoupling of the dust within it. The chemical composition of the condensate changes with time and radius. We compare the results of two dust condensation models: one where an element condenses when the mid-plane temperature in the disc is lower than the 50 per cent condensation temperature (⁠T50⁠) of that element and the other where the condensation of the dust is calculated by a Gibbs free energy minimization technique assuming chemical equilibrium at local disc temperature and pressure. The results of two models are generally consistent with some systematic differences of ∼10 per cent depending upon the radial distance and an element’s condensation temperature. Both models predict compositions similar to CM, CO, and CV chondrites provided that the decoupling time-scale of the dust is of the order of the evolution time-scale of the disc or longer. If the decoupling time-scale is too short, the composition deviates significantly from the measured values. These models may contribute to our understanding of the chemical compositions of chondrites, and ultimately the terrestrial planets in the Solar system, and may constrain the potential chemical compositions of rocky exoplanets.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Jul 2020 00:00:00 -0700</pubDate>
+        <link>https://icpms-lab.github.io/2020/07/20/dust-condensation-in-evolving-discs-and-the-composition-of-planetary-building-blocks/</link>
+        <guid isPermaLink="true">https://icpms-lab.github.io/2020/07/20/dust-condensation-in-evolving-discs-and-the-composition-of-planetary-building-blocks/</guid>
+        
+        <category>papers</category>
+        
+        
+      </item>
+    
+  </channel>
 </rss>

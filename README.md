@@ -1,2 +1,1 @@
-The ICP-MS Lab  
-https://icpms-lab.github.io
+The ICP-MS Lab

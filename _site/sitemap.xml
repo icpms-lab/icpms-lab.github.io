@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/in-the-news/</loc>
-<lastmod>2021-05-22T00:00:00-07:00</lastmod>
+<loc>https://icpms-lab.github.io/2020/07/20/dust-condensation-in-evolving-discs-and-the-composition-of-planetary-building-blocks/</loc>
+<lastmod>2020-07-20T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>https://icpms-lab.github.io/2021/01/12/nickel-isotopic-evidence-for-late-stage-accretion-of-mercury-like-differentiated-planetary-embryos/</loc>
+<lastmod>2021-01-12T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://icpms-lab.github.io/2021/05/28/coupled-deep-mantle-carbon-water-cycle-evidence-from-lower-mantle-diamonds/</loc>
+<lastmod>2021-05-28T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/people/</loc>
+<loc>https://icpms-lab.github.io/2021/06/15/calcium-isotoope-cosmochemistry/</loc>
+<lastmod>2021-06-15T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+<loc>https://icpms-lab.github.io/about/</loc>
+</url>
+<url>
+<loc>https://icpms-lab.github.io/</loc>
+</url>
+<url>
+<loc>https://icpms-lab.github.io/tag/papers/</loc>
+</url>
+<url>
+<loc>https://icpms-lab.github.io/tags/</loc>
 </url>
 </urlset>

@@ -1,29 +1,26 @@
 ---
+title: "Tags"
 layout: default
+permalink: "/tags.html"
 ---
-
-<main class="site-main fadeInDown delay_075s">
-  <article class="post">
-    <header class="post-header">
-      <h1 class="post-title">{{page.title}}</h1>
-    </header><!-- .post-header -->
-    <div class="post-content">
-      <div class="archive-tags">
-        {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-        {% assign sortedTags = site_tags | split:',' | sort %}
-        {% for tag in sortedTags %}
-        <a href="#{{ tag | cgi_escape }}">{{ tag }}</a>{% unless forloop.last %} {% endunless %}
-        {% endfor %}
-      </div><!-- .archive-tag-list -->
-      {% for tag in sortedTags %}
-        <h2 id="{{ tag | cgi_escape }}">{{ tag }}</h2>
-        <ul class="archive-post-list">
-        {% for post in site.tags[tag] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="archive-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
-        {% endfor %}
-        </ul><!-- .archive-post-list -->
-        <p><a href="#top" class="archive-top-link">Return to top &#8593;</a></p>
-      {% endfor %}
-    </div><!-- .post-content -->
-  </article><!-- .post -->
-</main><!-- .site-main -->
+<section class="py-3">
+    <div class="container">
+        <div class="row">
+            {% for tag in site.tags %}
+            <div class="section-title col-md-12 mt-4">
+                <h2 id="{{ tag[0] | replace: " ","-" }}">Tag: <span class="text-capitalize">{{ tag[0] }}</span></h2>
+            </div>
+            {% assign pages_list = tag[1] %}
+            {% for post in pages_list %}
+                {% if post.title != null %}
+                    {% if group == null or group == post.group %}
+                        {% include postbox.html %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            {% assign pages_list = nil %}
+            {% assign group = nil %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

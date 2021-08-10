@@ -1,25 +1,18 @@
 title: The ICP-MS Lab
 author: Ping Wang
+description: Geochemistry and Cosmochemistry Lab
+logo: 'assets/images/logo.png'
+favicon: 'favicon.ico'
 keywords: [ICP-MS]
 baseurl: ""
 url: "https://icpms-lab.github.io"
 
-# Favicon
-favicon: images/favicon.png
+
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
 
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: People
-    url: /people/
-  - text: Tags
-    url: /tags/
+
   
 
 # The shortname for your Disqus site to enable comments.
@@ -35,13 +28,13 @@ plugins:
   - jekyll-paginate
 
 
-# http://jekyllrb.com/docs/pagination/
-paginate: 3
+
+paginate: 4
 paginate_path: '/page:num/'
 
 
 # Permalinks
-permalink: /:title
+permalink: pretty
 
 # Conversion
 markdown: kramdown
@@ -53,29 +46,4 @@ sass:
 include:
   - _pages
 
-defaults:
-  - scope:
-      path: _pages
-      type: pages
-    values:
-      is_post: false
-      layout: default
-  - scope:
-      path: _posts
-      type: posts
-    values:
-      is_post: true
-      layout: post
-      excerpt: ''
-      permalink: /:title/
-  - scope:
-      path: _posts/archived
-      type: posts
-    values:
-      layout: archivedPost
-      permalink: /archived/:title/
-      is_popular: false
-      is_archived: true
-      tags: [archived]
-      noindex: true
-      sitemap: false
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
