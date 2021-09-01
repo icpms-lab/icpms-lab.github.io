@@ -9,7 +9,7 @@ permalink: /people/
    <img src="/assets/images/sh.jpg" class="img-fluid" alt="SH" />
   </div>
   <div class="col-md-8" markdown="1">
-  <h3>Shichun Huang</h3>
+  <h3><a href="{{ site.baseurl }}/shichun-huang/" style="color:#000;">Shichun Huang</a></h3>
   <p>Principal Investigator</p>
   </div>
   <div class="col-md-4" markdown="1">
@@ -19,4 +19,12 @@ permalink: /people/
   <h3>Christopher DeFelice</h3>
   <p>Researcher</p>
   </div>
+  <div class="col-md-4" markdown="1">
+   <img src="/assets/images/HL.jpg" class="img-fluid" alt="HL" />
+  </div>
+  <div class="col-md-8" markdown="1">
+  <h3>Hazel Lee</h3>
+  <p>Master Student</p>
+  </div>
+  
 </div>
