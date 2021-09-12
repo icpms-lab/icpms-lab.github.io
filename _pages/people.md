@@ -24,7 +24,7 @@ permalink: /people/
   </div>
   <div class="col-md-8" markdown="1">
   <h3>Hazel Lee</h3>
-  <p>Master Student</p>
+  <p>MS Student</p>
   </div>
   
 </div>
